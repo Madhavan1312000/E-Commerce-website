@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#maindiv{
+    height: 560px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /* background-color: aqua; */
+}
+#subdiv{
+    height: 560px;
+    width: 100%;
+    background-image: url("https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074076.jpg?w=826&t=st=1694776757~exp=1694777357~hmac=b1bd8e3f0e8ebed89fcea90414297a5eceb2e5cdfed1dc736ff2531fc361889b");
+background-repeat: no-repeat;
+background-size: cover;
+background-position-y: -150px;
+display: flex;
+justify-content: center;
+}
+table{
+    width: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 10px;
+}
+table>tr>th{
+    background-color: orange;
+}
+#td1{
+    width: 50px; 
+    background-color: azure;
+    box-sizing: border-box;
+}
+#td1>img{
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+    margin-top: 3px;
+}
+#td2{
+    width: 90px; 
+    background-color: azure;
+    padding-left: 2px;
+}
+#td3{
+    width: 80px; 
+    background-color: azure;
+    padding-left: 35px;
+}
+#td4{
+    width: 40px; 
+    background-color: azure;
+    padding-left: 50px;
+    box-sizing: content-box;
+}
+#td5{
+    width: 70px; 
+    background-color: azure;
+    padding-left: 25px;
+}
+#td6{
+    width: 70px; 
+    background-color: azure;
+    padding-left: 20px;
+    box-sizing: content-box;
+}
+#td7{
+    width: 40px; 
+    background-color: azure;
+}
+#td7>button{
+    width: 90px;
+    background-color: rgb(236, 72, 72);
+    border: 2px solid rgb(236, 72, 72);
+    box-shadow: 2px 2px 5px black;
+    border-radius: 5px;
+    margin-left: 80px;
+    height: 30px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: antiquewhite;
+}
+#td4>input{
+    width: 40px;
+    height: 30px;
+    border: none;
+    font-weight: 600;
+}
+#td6>button{
+    width: 80px;
+    background-color: orangered;
+    border: 2px solid orangered ;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 5px;
+    height: 30px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: antiquewhite;
+}

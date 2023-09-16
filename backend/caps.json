@@ -1,0 +1,558 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Madhavan",
+      "Phone": 8940017890,
+      "email": "madhavan@123",
+      "password": "Madhavan123",
+      "address": "abc"
+    },
+    {
+      "name": "Mani",
+      "phone": 7867890987,
+      "email": "mani@345",
+      "password": "mani345",
+      "address": "xyz",
+      "id": 2
+    }
+  ],
+  "caps": [
+    {
+      "id": 1,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/cap/n/y/q/free-sty-22-23-001277-nasa-by-free-authority-original-imagghg3gu7epa6h.jpeg?q=70",
+      "price": "₹ 450"
+    },
+    {
+      "id": 2,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/cap/k/t/q/free-farrari-polo-store-original-imagnuvn8ce9sv9n.jpeg?q=70",
+      "price": "300"
+    },
+    {
+      "id": 3,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/cap/w/p/k/free-black-white1virat-dedicated-original-imagzgkw87hhx4ky.jpeg?q=70",
+      "price": "430"
+    },
+    {
+      "id": 4,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/cap/g/f/k/free-beanie-025-bsquare-original-imaeqauywkhrgysu.jpeg?q=70",
+      "price": "410"
+    },
+    {
+      "id": 5,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/jl2m7ww0/cap/e/s/y/free-net-sunshade-combo-zacharias-original-imaf8aa462augepc.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 6,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/kxm5qq80/cap/0/b/s/free-solid-round-cap-nmt-original-imagayxj6ardhsue.jpeg?q=70",
+      "price": "420"
+    },
+    {
+      "id": 7,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/jnkmykw0/cap/h/k/n/free-snapback-baseball-hip-hop-cap-westery-original-imafa8khgchpghtx.jpeg?q=70",
+      "price": "400"
+    },
+    {
+      "id": 8,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/kjom6q80-0/cap/j/y/y/free-mint-darkgrey-zipper-g-original-imafz6zhdxpzxbsa.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 9,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/cap/n/y/q/free-sty-22-23-001277-nasa-by-free-authority-original-imagghg3gu7epa6h.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 10,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/cap/n/y/q/free-sty-22-23-001277-nasa-by-free-authority-original-imagghg3gu7epa6h.jpeg?q=70",
+      "price": "450"
+    }
+  ],
+  "chains": [
+    {
+      "id": 1,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/necklace-chain/f/v/8/-original-imagqgcvnhg6ykfv.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 2,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/necklace-chain/w/o/i/-original-imagqgcw7vc2m3yu.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 3,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/necklace-chain/g/c/y/1-2369-chain-desire-decore-original-imagnrh5uurhekxa.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 4,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/k44hksw0/necklace-chain/b/m/u/gajra-jap-chain-lva-creations-original-imafkpyyhuhtrz2h.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 5,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/necklace-chain/d/t/g/1-ffch139-ffch140-d-chain-fashion-frill-original-imaggpg4xcb9dhvc.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 6,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/ky1vl3k0/necklace-chain/s/i/f/1-gfdszx45-chain-r-jewels-original-imagacnwsnw4yvsp.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 7,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/k1b1bbk0/necklace-chain/d/d/j/royale-silver-chain-lva-creations-original-imafkwm2wggwmazj.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 8,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/k9n3s7k0/necklace-chain/f/h/6/100-natural-single-line-blue-crystal-glass-spiritual-mala-5-mm-original-imafre2hukvahudw.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 9,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/necklace-chain/f/v/8/-original-imagqgcvnhg6ykfv.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 10,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/necklace-chain/d/t/g/1-ffch139-ffch140-d-chain-fashion-frill-original-imaggpg4xcb9dhvc.jpeg?q=70",
+      "price": "450"
+    }
+  ],
+  "hoodies": [
+    {
+      "id": 1,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/3/d/i/l-jc22-hd-fs-black-jmc-pckt-jump-cuts-original-imagg3yxfk48y7nt.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 2,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/ktizdzk0/sweatshirt/c/b/f/m-h16228-adidas-original-imag6ux9hrjpnhrw.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 3,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sweatshirt/5/3/z/s-53654930-puma-original-imaghxgrmpxbyaf6.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 4,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sweatshirt/x/s/t/l-hood-monkey-absolute-defense-original-imagqxzzg3jmv5na.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 5,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sweatshirt/a/a/x/l-tnvsweatskulbeard1-tripr-original-imaghf88xtbw8chh.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 6,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sweatshirt/v/w/l/xl-men-hoodie-kainchee-factory-original-imagksvdeh97fgdw.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 7,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/l5h2xe80/sweatshirt/f/b/t/xxl-hiddenface-hoodie-more-more-original-imagg579z4vsgzqw.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 8,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sweatshirt/u/n/h/l-solid-hoodie-fn3-original-imaggrraezarh4cb.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 9,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/3/d/i/l-jc22-hd-fs-black-jmc-pckt-jump-cuts-original-imagg3yxfk48y7nt.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 10,
+      "name": "Men's Basics",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sweatshirt/5/3/z/s-53654930-puma-original-imaghxgrmpxbyaf6.jpeg?q=70",
+      "price": "450"
+    }
+  ],
+  "inners": [
+    {
+      "id": 1,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kx0q4y80/vest/f/l/y/xl-mppsn03-lg-cruister-original-imag9kg4wgzzgez3.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 2,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/k48rwcw0/vest/g/z/d/s-fc4143-fastcolors-original-imafmhzyvavavxvg.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 3,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kdnf98w0hlty2aw-0/vest/p/j/f/xl-2-fc4141-4143-fastcolors-original-imafuhzmcpgayxsq.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 4,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kjkbv680-0/vest/3/a/7/4xl-sleeveless-t-shirt-vest-prime-plus-original-imafz33cbhf5f5np.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 5,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kokdci80/vest/y/7/f/xl-sd4-stem-rope-original-imag2zwrhgq29zhd.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 6,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/jxkpx8w0/vest/m/g/8/l-re-vest-twoclr-frenemy-original-imafhwbhdqm75w5h.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 7,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/jyhl1u80/vest/q/n/y/xl-anax-aesthetics-black-super-saiyan-anax-aesthetics-original-imafgpy86ycn4vs2.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 8,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/k4324y80/vest/a/m/4/xl-3-ton-side-panel-grey-2-decisive-original-imafmxa2vhf8ucqh.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 9,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kdnf98w0hlty2aw-0/vest/g/a/x/m-1-fc7011-fastcolors-original-imafuhz9v3nc44th.jpeg?q=70",
+      "price": "₹ 450"
+    },
+    {
+      "id": 10,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l1pc3gw0/vest/v/m/n/m-mv04mr-attempt-original-imagd7nhgzsscyft.jpeg?q=70",
+      "price": "450"
+    }
+  ],
+  "pants": [
+    {
+      "id": 1,
+      "name": "Men Regular Fit",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kndi4y80/trouser/d/m/b/28-cc-nb-mancrew-original-imag22b6j5zsjzxk.jpeg?q=70",
+      "price": "500"
+    },
+    {
+      "id": 2,
+      "name": "Men's Regular Fit Light",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kt1u3rk0/trouser/d/m/9/28-cc-sb-mancrew-original-imag6hb4dxe7vkdh.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 3,
+      "name": "Men's Regular Fit Grey",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/m/o/b/38-u03-tr-baleno-grey-ad-av-original-imaggrnz2tgwcf3v.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 4,
+      "name": "Men's Slim Fit",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/v/n/k/34-kctr-2121-beige-fubar-original-imagsffrwezepscj.jpeg?q=70",
+      "price": "550"
+    },
+    {
+      "id": 5,
+      "name": "Men's Basics 2",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/y/v/8/38-slc-yana-formal-slc-original-imagrffc2vya4ckr.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 6,
+      "name": "Men's Skinny Mid Rise",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l27wtjk0/jean/8/m/0/30-new-black02-mavi-fashion-original-imagdm8kq4jpfkqy.jpeg?q=70",
+      "price": "750"
+    },
+    {
+      "id": 7,
+      "name": "Men's Regular Jeans",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l4fxh8w0/jean/j/h/3/36-rc02bb03midblue-spykar-original-imagfcb7dky3z8cw.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 8,
+      "name": "Men's Tapered Fit",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kflftzk0-0/jean/z/j/t/36-000878-highlander-original-imafwyerewprbcmz.jpeg?q=70",
+      "price": "400"
+    },
+    {
+      "id": 9,
+      "name": "Men's Basics 4",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/c/g/s/28-regular-lzard-original-imag5qgz8mxmqmbd-bb.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 10,
+      "name": "Men's Basic Jean",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/a/34-lj183fa-lzard-original-imagheuc7g6ft5ap.jpeg?q=70",
+      "price": "450"
+    }
+  ],
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Sneaker",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kuof5ow0/shoe/f/i/q/6-rpd103-6-rapidbox-white-original-imag7qu9m7bmhngf.jpeg?q=70",
+      "price": "850"
+    },
+    {
+      "id": 2,
+      "name": "Rebound",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/0/z/v/10-369573-10-puma-parisian-night-high-risk-red-white-original-imaghbgnaqkkgruz.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 3,
+      "name": "High Tops",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/s/w/u/8-jimny-sfr-black-original-imagqgctzrs6vgf7.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 4,
+      "name": "Men's Sneakers",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-shoe/n/s/s/6-r-a-i-n-b-o-w-4-ezdezario-original-imagg4f3czxh2tjm.jpeg?q=70",
+      "price": "900"
+    },
+    {
+      "id": 5,
+      "name": "Running Shoes",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-shoe/1/j/c/8-21281-42-nobelite-blue-original-imagct54mz3wzpwx.jpeg?q=70",
+      "price": "550"
+    },
+    {
+      "id": 6,
+      "name": "Canvas Shoes",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l3rmzrk0/shoe/p/h/r/8-blackcan12-lejano-black-original-imaget5ecubsydjz.jpeg?q=70",
+      "price": "400"
+    },
+    {
+      "id": 7,
+      "name": "Synthetic Shoes",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/o/n/j/7-mrj1991-7-aadi-black-original-imaghhkj7363hufz.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 8,
+      "name": "Sneakers for Men",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/7/h/u/10-rkt-19039-black-44-atom-black-original-imagzhc3bq9fzfby.jpeg?q=70",
+      "price": "600"
+    },
+    {
+      "id": 9,
+      "name": "Men's Latest Design",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kwmfqfk0/sandal/z/x/f/9-105-blk-tan-luvleo-black-tan-original-imag99ck7sx7hhds.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 10,
+      "name": "Action Athleo",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/i/z/5/8-atg-721-8-action-grey-original-imagn4dn6yuwrewz.jpeg?q=70",
+      "price": "450"
+    }
+  ],
+  "tshirts": [
+    {
+      "id": 1,
+      "name": "Men Regular Fit",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l52sivk0/shirt/r/o/4/m-a-wanted-allwin-paul-original-imagfu699zj2hvpg.jpeg?q=70",
+      "price": "500"
+    },
+    {
+      "id": 2,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/c/j/z/m-usshto2270-u-s-polo-assn-original-imags3dzykkhzseq.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 3,
+      "name": "Men's Regular Fit",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/g/3/i/s-men-solid-fashionable-striped-lycra-printed-slim-fit-cut-away-original-imagrwzrpj2arnqs.jpeg?q=70",
+      "price": "430"
+    },
+    {
+      "id": 4,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l02r1jk0/shirt/f/d/3/xxl-fbrml-r-fibermill-original-imagbxyuucvqrv6y.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 5,
+      "name": "VTEXX",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/t/q/p/l-13-lstr-navy-vtexx-original-imagmtdeh5yzumg7.jpeg?q=70",
+      "price": "650"
+    },
+    {
+      "id": 6,
+      "name": "Men's Slim Fit",
+      "image": "https://rukminim2.flixcart.com/image/612/612/ksdjma80/shirt/r/p/p/m-men-regular-fit-solid-spread-collar-casual-shirt-refresh-original-imag5yn9ejtvx7hn.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 7,
+      "name": "Double One",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/4/t/m/m-d205-double-one-original-imagjhbg2un83hvp.jpeg?q=70",
+      "price": "400"
+    },
+    {
+      "id": 8,
+      "name": "Men's Basics",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/x/x/e/-original-imags9h7myd3yngr.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 9,
+      "name": "Men's Basics VTEXX",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/j/x/h/4xl-13-lstr-acqua-vtexx-original-imagnx7fpc4maeha.jpeg?q=70",
+      "price": "450"
+    },
+    {
+      "id": 10,
+      "name": "Tallwalker",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/1/w/f/m-towel-001-tallwalker-original-imaghct3zkjg68z4.jpeg?q=70",
+      "price": "500"
+    }
+  ],
+  "watches": [
+    {
+      "id": 1,
+      "name": "Club 96",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/z/9/6/1-c-1-steel-club96-men-original-imagp6gss9yzbggg.jpeg?q=70",
+      "price": "1500"
+    },
+    {
+      "id": 2,
+      "name": "Selpra",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/c/s/f/hr17-men-standard-stainless-steel-selpra-men-original-imags9ypc64zfjuz.jpeg?q=70",
+      "price": "4500"
+    },
+    {
+      "id": 3,
+      "name": "Time Wear",
+      "image": "https://rukminim2.flixcart.com/image/612/612/jyg5lzk0/watch/x/w/g/192wdtg-timewear-original-imafgz73f3rezkmm.jpeg?q=70",
+      "price": "2000"
+    },
+    {
+      "id": 4,
+      "name": "Peter England",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l5h2xe80/watch/3/g/f/1-pe000017k-peter-england-men-original-imagg59nuhhkya9g.jpeg?q=70",
+      "price": "1800"
+    },
+    {
+      "id": 5,
+      "name": "Casio",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l05lx8w0/watch/i/z/9/-original-imagcy87u4ufvv5u.jpeg?q=70",
+      "price": "2300"
+    },
+    {
+      "id": 6,
+      "name": "Curren",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kzk6bgw0/watch/e/g/g/2-curren-007-curren-men-original-imagbjftyeznge4b.jpeg?q=70",
+      "price": "465"
+    },
+    {
+      "id": 7,
+      "name": "G-Shock",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l01blow0/watch/e/y/k/-original-imagbwyyhzyqfp7n.jpeg?q=70",
+      "price": "8000"
+    },
+    {
+      "id": 8,
+      "name": "Casio Enticer",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kzd147k0/watch/6/9/d/-original-imagbeftahg2vsph.jpeg?q=70",
+      "price": "4500"
+    },
+    {
+      "id": 9,
+      "name": "Carlington",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kuh9yfk0/watch/t/i/f/1-ct1050-green-black-carlington-men-original-imag7h5hzpt9cm4t.jpeg?q=70",
+      "price": "3000"
+    },
+    {
+      "id": 10,
+      "name": "dlx hmt",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/r/3/q/1-watch-dlx-hmt-men-original-imagmrfz5xhnj2vg.jpeg?q=70",
+      "price": "340"
+    }
+  ],
+  "cart": [
+    {
+      "name": "Men's Basics",
+      "price": "450",
+      "totalprice": 1350,
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sweatshirt/a/a/x/l-tnvsweatskulbeard1-tripr-original-imaghf88xtbw8chh.jpeg?q=70",
+      "count": 3,
+      "index": "5",
+      "sectionname": "hoodies",
+      "id": 4
+    },
+    {
+      "name": "Time Wear",
+      "price": "2000",
+      "totalprice": "2000",
+      "image": "https://rukminim2.flixcart.com/image/612/612/jyg5lzk0/watch/x/w/g/192wdtg-timewear-original-imafgz73f3rezkmm.jpeg?q=70",
+      "count": 1,
+      "index": "3",
+      "sectionname": "watches",
+      "id": 6
+    },
+    {
+      "name": "Tallwalker",
+      "price": "500",
+      "totalprice": 1000,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/1/w/f/m-towel-001-tallwalker-original-imaghct3zkjg68z4.jpeg?q=70",
+      "count": 2,
+      "index": "10",
+      "sectionname": "tshirts",
+      "id": 8
+    },
+    {
+      "name": "Men's Basics",
+      "price": "410",
+      "totalprice": 1640,
+      "image": "https://rukminim1.flixcart.com/image/612/612/cap/g/f/k/free-beanie-025-bsquare-original-imaeqauywkhrgysu.jpeg?q=70",
+      "count": 4,
+      "index": "4",
+      "sectionname": "caps",
+      "id": 9
+    }
+  ]
+}

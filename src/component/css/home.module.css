@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#maindiv1{
+    height: 480px;
+    width: 100%;
+}
+#maindiv1>#d1{
+    margin-top: 10px;
+    margin-left: 13px;
+    height: 460px;
+    width: 98%;
+    animation-name: a;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 45px;
+    color: lightblue;
+-webkit-text-stroke: 1px black;
+}
+@keyframes a {
+    0%{
+        background-image: url('../img/home/pexels-ajaykumar-narwade-1337477.jpg');
+        background-position-y: -60px;
+    }
+    25%{
+        background-image: url('../img/home/pexels-hasib-khorami-1496647.jpg');
+        background-position-y: -80px;
+    }
+    50%{
+        background-image: url('../img/home/pexels-r-fera-432059.jpg');
+        background-position-y: -170px;
+        
+    }
+    100%{
+        background-image: url('../img/home/pexels-spencer-selover-428340.jpg');
+        background-position-y: -100px;
+    }
+    
+}
+h1{
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: transparent;
+    letter-spacing: 10px;
+-webkit-text-stroke: 1px white;
+}
+
